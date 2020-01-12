@@ -1,0 +1,360 @@
+# depslib dependency file v1.0
+1573601803 source:c:\users\jpvsa\desktop\projetofinal\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1574883909 c:\users\jpvsa\desktop\projetofinal\funcoes_auxiliares.h
+	"constantes.h"
+
+1578771766 c:\users\jpvsa\desktop\projetofinal\constantes.h
+
+1574982010 source:c:\users\jpvsa\desktop\projetofinal\funcoesprojeto.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesProjeto.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1574982010 c:\users\jpvsa\desktop\projetofinal\funcoesprojeto.h
+	"constantes.h"
+
+1578771194 source:c:\users\jpvsa\desktop\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1575498232 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1575498232 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoes_auxiliares.h
+	"constantes.h"
+
+1578772675 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\constantes.h
+
+1574939571 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesprojeto.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesProjeto.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1574939571 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesprojeto.h
+	"constantes.h"
+
+1578766144 c:\users\jpvsa\desktop\projetofinal\funcoesmenus.h
+	"constantes.h"
+
+1578771018 source:c:\users\jpvsa\desktop\projetofinal\funcoesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesMenus.h"
+	"constantes.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+
+1578772675 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesMenus.h"
+	"constantes.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+
+1578772675 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesmenus.h
+	"constantes.h"
+
+1575065731 c:\users\jpvsa\desktop\projetofinal\funcoesdocentes.h
+	"constantes.h"
+
+1576755647 c:\users\jpvsa\desktop\projetofinal\funcoesalunos.h
+	"constantes.h"
+
+1575065922 source:c:\users\jpvsa\desktop\projetofinal\funcoesdocentes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesDocentes.h"
+	"funcoesAlunos.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578761858 source:c:\users\jpvsa\desktop\projetofinal\funcoesalunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578779210 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesalunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1575047870 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesdocentes.h
+	"constantes.h"
+
+1576755324 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesalunos.h
+	"constantes.h"
+
+1574983675 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesdocentes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesDocentes.h"
+	"funcoesAlunos.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578773201 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1576093077 c:\users\jpvsa\desktop\projetofinal\funcoesperguntas.h
+	"constantes.h"
+
+1578766144 c:\users\jpvsa\desktop\projetofinal\funcoestreinos.h
+	"constantes.h"
+
+1578770189 source:c:\users\jpvsa\desktop\projetofinal\funcoestreinos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578761575 source:c:\users\jpvsa\desktop\projetofinal\funcoesperguntas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578772655 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesperguntas.h
+	"constantes.h"
+
+1578772675 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoestreinos.h
+	"constantes.h"
+
+1578772655 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesperguntas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578763174 c:\users\jpvsa\desktop\projetofinal\funcoesficheiros.h
+	"constantes.h"
+
+1578765140 source:c:\users\jpvsa\desktop\projetofinal\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesMenus.h"
+	"constantes.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+
+1578772675 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesficheiros.h
+	"constantes.h"
+
+1578786198 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesMenus.h"
+	"constantes.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+
+1578785857 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto\funcoestreinos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578835039 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1578835039 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoes_auxiliares.h
+	"constantes.h"
+
+1578845965 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\constantes.h
+
+1578835039 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesperguntas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578835039 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesperguntas.h
+	"constantes.h"
+
+1578835039 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesalunos.h
+	"constantes.h"
+
+1578839605 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoestreinos.h
+	"constantes.h"
+
+1578835039 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesficheiros.h
+	"constantes.h"
+
+1578838598 c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesmenus.h
+	"constantes.h"
+
+1578835296 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesalunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578835296 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesMenus.h"
+	"constantes.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+
+1578839530 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoesmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesMenus.h"
+	"constantes.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+
+1578849237 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\funcoestreinos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+
+1578838598 source:c:\users\carla\onedrive\desktop\escola\programação i\projeto prog. i\projeto final\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoesPerguntas.h"
+	"funcoesAlunos.h"
+	"funcoesTreinos.h"
+	"funcoesFicheiros.h"
+	"funcoesMenus.h"
+	"constantes.h"
+

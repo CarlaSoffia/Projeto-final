@@ -1,0 +1,58 @@
+Informações dos treinos:
+Numero Total de treinos: 7 (7 - a decorrer / 0 - concluidos)
+
+
+	- Treino 1
+Numero de registo: 1
+Numero do estudante: 2191
+Prova (1 - 4): 1
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 6
+
+
+	- Treino 2
+Numero de registo: 2
+Numero do estudante: 1983
+Prova (1 - 4): 4
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 4
+
+
+	- Treino 3
+Numero de registo: 3
+Numero do estudante: 2847
+Prova (1 - 4): 2
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 6
+
+
+	- Treino 4
+Numero de registo: 4
+Numero do estudante: 2203
+Prova (1 - 4): 3
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 5
+
+
+	- Treino 5
+Numero de registo: 5
+Numero do estudante: 1998
+Tipo de pergunta (1-Estrutura de Controlo/ 2-Vetor/ 3-Ponteiro): 1
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 8
+
+
+	- Treino 6
+Numero de registo: 6
+Numero do estudante: 2191
+Tipo de pergunta (1-Estrutura de Controlo/ 2-Vetor/ 3-Ponteiro): 2
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 7
+
+
+	- Treino 7
+Numero de registo: 7
+Numero do estudante: 2203
+Tipo de pergunta (1-Estrutura de Controlo/ 2-Vetor/ 3-Ponteiro): 3
+Estado (0 - Criado / 1 - Concluido): 0
+Quantidade de perguntas: 5
